@@ -1,0 +1,2 @@
+Har bar koi code likhna hai toh try catch block me likhna hai 
+hum idhar logger isliye nahi use kar nahi rahe kyuki , yaha hummn har chigh  mlflow se track kar sakte hai
